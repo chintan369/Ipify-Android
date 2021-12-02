@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidIpFy</string>
+    <string name="my_public_ip_is">My Public IP address is</string>
+</resources>
