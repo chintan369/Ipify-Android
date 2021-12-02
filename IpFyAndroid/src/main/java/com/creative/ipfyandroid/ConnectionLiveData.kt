@@ -8,7 +8,7 @@ import android.net.*
 import android.os.Build
 import androidx.lifecycle.LiveData
 
-class ConnectionLiveData(private val context: Context) : LiveData<Boolean>() {
+internal class ConnectionLiveData(private val context: Context) : LiveData<Boolean>() {
 
     private var connectivityManager: ConnectivityManager = context.getSystemService(CONNECTIVITY_SERVICE) as ConnectivityManager
 

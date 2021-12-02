@@ -1,3 +1,3 @@
 package com.creative.ipfyandroid
 
-data class IpifyResponse(val ip: String)
+internal data class IpifyResponse(val ip: String)
