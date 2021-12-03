@@ -1,5 +1,5 @@
 # Ipify-Android
-[![](https://jitpack.io/v/chintan369/Ipify.svg)](https://jitpack.io/#chintan369/Ipify)
+[![](https://jitpack.io/v/chintan369/Ipify-Android.svg)](https://jitpack.io/#chintan369/Ipify-Android)
 
 Ipify allows you to get current public IP address when connected to internet in real-time
 
