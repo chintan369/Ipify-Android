@@ -31,7 +31,7 @@ dependencyResolutionManagement {
 ```gradle
 dependencies {
     ...
-    implementation 'com.github.chintan369:Ipify:<latest-version>'
+    implementation 'com.github.chintan369:Ipify-Android:<latest-version>'
 }
 ```
 
